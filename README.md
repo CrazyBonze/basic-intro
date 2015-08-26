@@ -1,2 +1,2 @@
-# Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+# Michael Taylor
+Hi, I am Michael Taylor and i have no idea what to put in this .md file so i am just typing stuff.
